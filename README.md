@@ -1,0 +1,1 @@
+Employed NLP and Pyspark ETL pipelines to analyze tweets for education trends, achieving accurate trend insights and Twitter strategy improvements, utilizing Google Data Studio for activity and geographic trends visualization.
